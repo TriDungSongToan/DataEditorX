@@ -87,7 +87,7 @@ Accept negative coordinates, but they must not be smaller than (stamp size * (-1
 - a: Distance from the stamp edge (edge ​​parallel to the Oy axis, left edge if the stamp position is X_Left, right edge if X_Right) to the corresponding edge of the base image (small image).
 - b: Distance from the stamp edge (edge ​​parallel to the Ox axis, top edge if the stamp position is Top_X, bottom edge if Bottom_X) to the corresponding edge of the base image (small image).
 - c: Distance from the stamp edge (edge ​​parallel to the Oy axis, left edge if the stamp position is X_Left, right edge if X_Right) to the corresponding edge of the base image (large image).
-- d: Distance from the stamp edge (edge parallel to the Ox axis, left edge if the stamp position is Top_X, bottom edge if Bottom_X) to the corresponding edge of the base image (large image).
+- d: Distance from the stamp edge (edge parallel to the Ox axis, top edge if the stamp position is Top_X, bottom edge if Bottom_X) to the corresponding edge of the base image (large image).
 
 ### Code Settings
 ★ Font: Font used in the CodeEditor window, default is Consolas font
