@@ -1,0 +1,13 @@
+# database history
+C:\Users\dungh\Desktop\New folder\test\test.cdb
+C:\Users\dungh\Desktop\New folder\test\cards-maker.cdb
+# script history
+C:\Users\dungh\Desktop\New folder\test\script\c533000138.lua
+C:\Users\dungh\Desktop\New folder\test\script\c533000192.lua
+C:\Users\dungh\Desktop\New folder\test\script\c533000135.lua
+C:\Users\dungh\Desktop\New folder\test\script\c533000021.lua
+C:\Users\dungh\Desktop\New folder\test\script\c533000018.lua
+C:\Users\dungh\Desktop\New folder\test\script\c533000015.lua
+C:\Users\dungh\Desktop\New folder\test\script\c533000013.lua
+C:\Users\dungh\Desktop\New folder\test\script\c533000010.lua
+C:\Users\dungh\Desktop\New folder\test\script\c533000012.lua

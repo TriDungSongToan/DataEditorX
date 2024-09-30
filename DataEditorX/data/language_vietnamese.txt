@@ -1,0 +1,226 @@
+﻿#
+CodeEditForm.mainMenu.menuitem_file	Tệp(&F)
+CodeEditForm.mainMenu.menuitem_open	Mở
+CodeEditForm.mainMenu.menuitem_save	Lưu
+CodeEditForm.mainMenu.menuitem_saveas	Lưu Dưới Dạng
+CodeEditForm.mainMenu.menuitem_quit	Thoát
+CodeEditForm.mainMenu.menuitem_setting	Công cụ(&S)
+CodeEditForm.mainMenu.menuitem_showmap	Hiển thị/Ẩn Bản đồ Tài liệu
+CodeEditForm.mainMenu.menuitem_showinput	Hiển thị/Ẩn hộp văn bản
+CodeEditForm.mainMenu.menuitem_find	Tìm chuỗi
+CodeEditForm.mainMenu.menuitem_replace	Thay thế
+CodeEditForm.mainMenu.menuitem_setcard	Thiết lập cơ sở dữ liệu
+CodeEditForm.mainMenu.menuitem_help	Trợ Giúp(&H)
+CodeEditForm.mainMenu.menuitem_about	Giới thiệu
+DataEditForm.mainMenu.menuitem_autoreturn	(*)Tự động trả về văn bản
+#
+DataEditForm	Biên tập dữ liệu
+DataEditForm.pl_bottom.btn_img	Nhập ảnh
+DataEditForm.pl_main.lb_types	Loại thẻ
+DataEditForm.pl_main.lb_tiptexts	Văn bản kịch bản
+DataEditForm.pl_main.lb_categorys	Thể loại
+DataEditForm.pl_main.lb_cardcode	Mã số
+DataEditForm.pl_main.lb_cardalias	Bí danh
+DataEditForm.pl_main.lb_atkdef	ATK/DEF
+DataEditForm.pl_main.lb_pleft_right	Penscale
+DataEditForm.pl_main.lbimgwidth	Rộng
+DataEditForm.pl_main.lbimgheight	Cao
+DataEditForm.pl_main.btnautosize	Auto Size 
+DataEditForm.pl_main.btnsetsize	Set Size
+DataEditForm.pl_bottom.btn_reset	Đặt lại
+DataEditForm.pl_bottom.btn_lua	Kịch bản
+DataEditForm.pl_bottom.btn_serach	Tìm kiếm
+DataEditForm.pl_bottom.btn_del	Xóa
+DataEditForm.pl_bottom.btn_undo	Hoàn tác
+DataEditForm.pl_bottom.btn_mod	Sửa đổi
+DataEditForm.pl_bottom.btn_add	Thêm
+#DataEditForm.pl_bottom.btn_PageDown	Xuống trang
+#DataEditForm.pl_bottom.btn_PageUp	Lên trang
+DataEditForm.lv_cardlist.0	Mã thẻ
+DataEditForm.lv_cardlist.1	Tên thẻ
+DataEditForm.mainMenu.menuitem_file	Tệp(&F)
+DataEditForm.mainMenu.menuitem_open	Mở(&O)
+DataEditForm.mainMenu.menuitem_new	Mới(&N)
+DataEditForm.mainMenu.menuitem_copyselectto	Sao chép mục đã chọn...
+DataEditForm.mainMenu.menuitem_copyto	Sao chép tất cả Tìm kiếm...
+DataEditForm.mainMenu.menuitem_openLastDataBase	Mở Database cuối
+DataEditForm.mainMenu.menuitem_quit	Thoát
+DataEditForm.mainMenu.menu_image	MSE(&M)
+DataEditForm.mainMenu.menu_data	Dữ liệu(&D)
+DataEditForm.mainMenu.menuitem_operacardsfile	Thao tác với tệp thẻ
+DataEditForm.mainMenu.menuitem_openfileinthis	Mở kịch bản với CodeEditor
+DataEditForm.mainMenu.menuitem_readydk	Đọc từ tập tin ydk(&Y)
+DataEditForm.mainMenu.menuitem_readimages	Đọc Từ Đường Dẫn Ảnh(&I)
+DataEditForm.mainMenu.menuitem_compdb	Nén Database
+DataEditForm.mainMenu.menuitem_exportdata	Xuất dữ liệu dưới dạng zip
+DataEditForm.mainMenu.menuitem_mseconfig	Thiết lập cấu hình MSE
+DataEditForm.mainMenu.menuitem_testpendulumtext	Thử nghiệm văn bản Pendulum
+DataEditForm.mainMenu.menuitem_readmse	Đọc Cài đặt MSE
+DataEditForm.mainMenu.menuitem_saveasmse_select	Lưu mục đã chọn làm cài đặt MSE
+DataEditForm.mainMenu.menuitem_saveasmse	Lưu tất cả dưới dạng cài đặt MSE
+DataEditForm.mainMenu.menuitem_cutimages	Cắt ảnh
+DataEditForm.mainMenu.menuitem_convertimage	Chuyển đổi hình ảnh
+DataEditForm.mainMenu.menuitem_importmseimg	Thiết lập ảnh của MSE
+DataEditForm.mainMenu.menuitem_export_all_sql	Xuất tất cả sang sql
+DataEditForm.mainMenu.menuitem_export_select_sql	Xuất mục chọn sang sql
+DataEditForm.mainMenu.menuitem_cancelTask	Hủy tác vụ
+DataEditForm.mainMenu.menuitem_exportMSEimage	Xuất thiết lập mse sang hình ảnh (Nhấp vào dừng)
+DataEditForm.mainMenu.menuitem_help	Trợ giúp(&H)
+DataEditForm.mainMenu.menuitem_about	Giới thiệu
+DataEditForm.mainMenu.menuitem_language	Ngôn ngữ
+DataEditForm.mainMenu.menuitem_checkupdate	Kiểm tra Cập nhật
+DataEditForm.mainMenu.menuitem_autocheckupdate	Tự động kiểm tra cập nhật
+DataEditForm.mainMenu.menuitem_github	Mã nguồn trong GitHub
+#
+MainForm.mainMenu.menuitem_file	Tệp(&F)
+MainForm.mainMenu.menuitem_open	Mở
+MainForm.mainMenu.menuitem_new	Mới
+MainForm.mainMenu.menuitem_save	Lưu
+MainForm.mainMenu.menuitem_copyselect	Sao chép mục đã chọn
+MainForm.mainMenu.menuitem_copyall	Sao chép tất cả Tìm kiếm
+MainForm.mainMenu.menuitem_pastecards	Dán thẻ
+MainForm.mainMenu.menuitem_comp1Set So sánh Database 1
+MainForm.mainMenu.menuitem_comp2Set So sánh Database 2
+MainForm.mainMenu.menuitem_history	Lịch sử DataBase
+MainForm.mainMenu.menuitem_shistory	Lịch sử Script
+MainForm.mainMenu.menuitem_quit	Thoát
+MainForm.mainMenu.menuitem_windows	Cửa sổ(&W)
+MainForm.mainMenu.menuitem_dataeditor	Biên tập dữ liệu
+MainForm.mainMenu.menuitem_codeeditor	Biên tập mã
+MainForm.mainMenu.configurationToolStripMenuItem	Cấu hình
+MainForm.mainMenu.menuitem_close	Đóng
+MainForm.mainMenu.menuitem_closeother	Đóng các mục khác
+MainForm.mainMenu.menuitem_closeall	Đóng toàn bộ
+#
+ConfigEditForm	Cấu hình ứng dụng
+ConfigEditForm.panelconfigedit.imgsetting	Cài đặt hình ảnh
+ConfigEditForm.panelconfigedit.imgsetting.lbimgquality	Chất lượng ảnh
+ConfigEditForm.panelconfigedit.imgsetting.lbdefaultsize	K.T mặc định
+ConfigEditForm.panelconfigedit.imgsetting.lbimgsize	Kích thước ảnh
+ConfigEditForm.panelconfigedit.imgsetting.lbimgother	Ảnh khác
+ConfigEditForm.panelconfigedit.imgsetting.lbimgexceed	Ảnh eXceed
+ConfigEditForm.panelconfigedit.imgsetting.lbimgpen	Ảnh Pendulum
+ConfigEditForm.panelconfigedit.stampsetting	Cài đặt Tem độ hiếm
+ConfigEditForm.panelconfigedit.stampsetting.lbstamposition	Vị trí
+ConfigEditForm.panelconfigedit.stampsetting.lbstampmargin	Căn lề
+ConfigEditForm.panelconfigedit.stampsetting.lbstampssize	K.Thước
+ConfigEditForm.panelconfigedit.codeeditsetting	Cài đặt mã
+ConfigEditForm.panelconfigedit.codeeditsetting.lbcodefont	Font
+ConfigEditForm.panelconfigedit.codeeditsetting.lbcodesize	Size
+ConfigEditForm.panelconfigedit.codeeditsetting.lbinputmethod	Phương thức nhập
+ConfigEditForm.panelconfigedit.codeeditsetting.lblinewrap	Xuống dòng
+ConfigEditForm.panelconfigedit.codeeditsetting.lbtabspace	Chèn Space
+ConfigEditForm.panelconfigedit.applicationsetting	Cài đặt ứng dụng
+ConfigEditForm.panelconfigedit.applicationsetting.lbasyncload	Tải dưới nền
+ConfigEditForm.panelconfigedit.applicationsetting.lbchangecardfile	Thay đổi tệp thẻ
+ConfigEditForm.panelconfigedit.applicationsetting.lbopenfile	Mở tệp
+ConfigEditForm.panelconfigedit.applicationsetting.lbchkupdate	K.Tra cập nhật
+ConfigEditForm.panelconfigedit.applicationsetting.lbmseautorarity	Độ hiếm tự động
+ConfigEditForm.panelconfigedit.menuconfig
+ConfigEditForm.panelconfigedit.menuconfig.btnconfigload	Tải dữ liệu
+ConfigEditForm.panelconfigedit.menuconfig.labelsearch	Tìm kiếm
+ConfigEditForm.panelconfigedit.menuconfig.btnconfigsavetext	Lưu văn bản
+ConfigEditForm.panelconfigedit.menuconfig.btnsavegrid	Lưu lưới
+ConfigEditForm.panelconfigedit.menuconfig.btnundo	Hoàn tác
+ConfigEditForm.panelconfigedit.menuconfig.btnreset	Đặt lại
+#
+0x0	Thông tin
+0x1	Lỗi
+0x2	Cảnh báo
+0x3	Câu hỏi
+0x4	Tạo thành công!
+0x5	Tạo thất bại!
+0x6	Thêm thành công!
+0x7	Thêm thất bại!
+0x8	Mã không thể là 0!
+0x9	Nó đã tồn tại rồi!
+0xa	Không có gì thay đổi.
+0xb	Xóa (các) Thẻ?
+0xc	Tạo tập tin script?
+0xd	Bạn có muốn mở Database?
+0xe	Thẻ đã tồn tại, bạn có muốn thay thế nó không?
+0xf	Phiên bản này đã được cập nhật.\nBạn có muốn tải xuống lại không?
+0x10	Kiểm tra cập nhật không thành công. Vui lòng kiểm tra mạng.
+0x11	Tìm phiên bản mới,\nBạn có muốn tải nó xuống?
+0x12	Tập tin không tồn tại.
+0x13	Không có Database nào được chọn.
+0x14	Chọn tệp Database.
+0x15	Chọn tệp ydk.
+0x16	Chọn thư mục hình ảnh.
+0x17	Tải xuống thành công!
+0x18	Tải xuống không thành công.
+0x19	Không có văn bản kịch bản nào được chọn!
+0x1a	Xóa thành công!
+0x1b	Xóa thất bại!
+0x1c	Sửa đổi thành công!
+0x1d	Sửa đổi thất bại!
+0x1e	Giới thiệu  : 
+0x1f	Phiên bản: 
+0x20	Tác giả : 
+0x21	cdb file(*.cdb)|*.cdb|all files(*.*)|*.*
+0x22	ydk file(*.ydk)|*.ydk|all files(*.*)|*.*
+0x23	Lỗi nhập SetCode.
+0x24	Chọn hình ảnh cho thẻ
+0x25	jpg(*.jpg)|*.jpg|bmp(*.bmp)|*.bmp|png(*.png)|*.png|all files(*.*)|*.*
+0x26	Tác vụ đang chạy.
+0x27	Đang kiểm tra cập nhật...
+0x28	Đang sao chép cơ sở dữ liệu...
+0x29	Sao chép Database OK
+0x2a	Lưu thiết lập file Mse
+0x2b	MSE set(*.mse-set)|*.mse-set|all files(*.*)|*.*
+0x2c	Xuất thiết lập Mse
+0x2d	Xuất thiết lập Mse OK
+0x2e	Đang cắt hình ảnh...
+0x2f	Cắt ảnh OK
+0x30	Không có thẻ nào được chọn
+0x31	Thay thế hình ảnh khi nó đã tồn tại?
+0x32	Chuyển đổi hình ảnh
+0x33	Chuyển đổi hình ảnh OK
+0x34	Nén DataBase OK
+0x35	Chỉ cập nhật văn bản của bộ?
+0x36	Tác vụ bị hủy
+0x37	Tác vụ đang bị tạm dừng
+0x38	Tác vụ đang tiếp tục
+0x39	Tác vụ có lỗi
+0x3a	Hủy tác vụ?
+0x3b	Sao chép
+0x3c	Dán
+0x3d	Xóa lịch sử
+0x3e	Xuất dữ liệu
+0x3f	Xuất dữ liệu OK
+0x40	So sánh thẻ với văn bản?
+0x41	Các thẻ được so sánh
+0x42	Mở tệp
+0x43	Script(*.lua)|*.lua|all files(*.*)|*.*
+0x44	Tệp mới
+0x45	Lưu Thành công.
+0x46	Lưu tập lệnh?
+0x47	Đọc MSE-set
+0x48	Đọc MSE-set OK.
+0x49	Vui lòng khởi động lại chương trình để áp dụng thay đổi.
+0x4a	Xuất Mse-set sang Hình ảnh OK.
+0x4b	Xuất Mse-set sang Hình ảnh thất bại.
+
+0x51	Lỗi tải cấu hình ứng dụng.
+0x52	Định dạng không hợp lệ. Vui lòng nhập giá trị theo định dạng a, b, c, d (a, b cho Kích thước mặc định), trong đó a, b, c, d là các số.
+0x53	Giá trị Chất lượng ảnh không hợp lệ. Vui lòng nhập giá trị là số từ 1~100.
+0x54	Giá trị Chất lượng ảnh không hợp lệ. Vui lòng nhập giá trị từ 1~100.
+0x55	Cấu hình ứng dụng được lưu thành công.
+0x56	Lỗi lưu cấu hình ứng dụng.
+0x57	Lưu cấu hình ứng dụng thất bại.
+0x58	Không có thay đổi nào.
+0x59	Dữ liệu được khôi phục về ban đầu.
+0x5a	Lỗi khôi phục dữ liệu.
+
+0x61	Giá trị chiều cao không hợp lệ.
+0x62	Giá trị chiều rộng không hợp lệ.
+0x63	Giá trị chiều rộng hoặc chiều cao không hợp lệ.
+0x64	Giá trị chiều rộng và chiều cao bị thiếu, bạn có muốn sử dụng giá trị mặc định không?
+0x65	Lưu Kích thước hình ảnh thành công với các giá trị mặc định.
+0x66	Cấu hình không hợp lệ, vui lòng kiểm tra cài đặt Cấu hình ứng dụng.
+0x67	Lưu Kích thước hình ảnh thành công với các giá trị mới.
+
+0x71	Không thể tải vị trí Tem, sử dụng vị trí mặc định.
+0x72	Không thể tải căn lề Tem, sử dụng lề mặc định.
+0x73	Có xung đột giữa vị trí lề và kích thước tem.
+0x74	Lỗi kích thước font chữ.

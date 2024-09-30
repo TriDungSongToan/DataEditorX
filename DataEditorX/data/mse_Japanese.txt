@@ -1,0 +1,112 @@
+﻿###########################
+# Magic Set Editor 2
+#
+# \t = Tab \n = Enter [:space:] = Space
+########################### Chs 2 Cht 
+cn2tw = false
+########################### Setting
+maxcount = 0
+imagepath = ./Images
+########################### Artwork
+reimage = false
+width = 319
+height = 317
+pwidth = 363
+pheight= 275
+########################### Spell/Trap
+#jp setting
+spell = %%
+trap = %%
+############################ language,style,other setting
+head = mse version: 0.3.8\r\ngame: yugioh\r\nstylesheet: standard\r\nset info:\r\n\tlanguage: JP\r\n\tedition: \r\n\tST mark is text: yes\r\n\tpendulum image is small: yes
+end = version control:\n\ttype: none\napprentice code: 
+############################ Text
+text =【摇摆文本】\n%ptext%\n【怪兽效果】\n%text%\n
+############################
+# chs jp
+pendulum-text = 】[\s\S]*?\n([\S\s]*?)\n【
+# cht pendulum-text = ([\S\s]*?)\n【
+# en  pendulum-text = Text:\n([\S\s]*?)\n[\S\s]*?Text:
+# chs jp cht
+monster-text = [果|介|述|報]】\n([\S\s]*)
+# en  monster-text = Text:[\s\S]*?Text:\n([\S\s]*)
+########################### Replace
+replace = \n 
+replace = ([·]) ・
+#replace = ([鮟|鱇|・|·]) <i>$1</i>
+#replace = \s <sym-auto>^</sym-auto>
+#replace = ([A-Z]) <i>$1</i>
+###########################
+##race
+race 0x1 戦士族
+race 0x2 魔法使い族
+race 0x4 妖精族
+race 0x8 悪魔族
+race 0x10 ゾンビ族
+race 0x20 機械族
+race 0x40 水族族
+race 0x80 炎族族
+race 0x100 岩石族
+race 0x200 鳥獣族
+race 0x400 植物族
+race 0x800 昆虫族
+race 0x1000 雷族族
+race 0x2000 ドラゴン族
+race 0x4000 獣族族
+race 0x8000 獣戦士族
+race 0x10000 恐竜族
+race 0x20000 魚族族
+race 0x40000 海竜族
+race 0x80000 爬虫類族
+race 0x100000 サイキック族
+race 0x200000 神族族
+race 0x400000 創造神族
+race 0x800000 幻竜族
+race 0x1000000 サイバース族
+race 0x2000000 サイボーグ族
+race 0x4000000 魔法騎士族
+race 0x8000000 上級ドラゴン族
+race 0x10000000 オメガサイキック族
+race 0x20000000 天戦士族
+race 0x40000000 ギャラクシー族
+race 0x80000000 妖怪族
+race 0x200002 魔神族
+race 0x200004 天使神族
+race 0x200008 悪魔神族
+race 0x200080 炎神族
+race 0x201000 雷神族
+###########################
+##type
+type 0x1 モンスター
+type 0x2 魔法
+type 0x4 罠
+type 0x8 罠|魔法
+type 0x10 通常
+type 0x20 効果
+type 0x40 融合
+type 0x80 儀式
+type 0x100 モンストラップ
+type 0x200 スピリット
+type 0x400 ユニオン
+type 0x800 デュアル
+type 0x1000 チューナー
+type 0x2000 シンクロ
+type 0x4000 トークン
+type 0x8000 マキシマム
+type 0x10000 速攻
+type 0x20000 永続
+type 0x40000 装備
+type 0x80000 フィールド
+type 0x100000 カウンター
+type 0x200000 リバース
+type 0x400000 トゥーン
+type 0x800000 エクシーズ
+type 0x1000000 ペンデュラム
+type 0x2000000 特殊召喚
+type 0x4000000 リンク
+type 0x8000000 スキル
+type 0x10000000 アクション
+type 0x20000000 プラス
+type 0x40000000 マイナス
+type 0x80000000 アーマー
+##########################
