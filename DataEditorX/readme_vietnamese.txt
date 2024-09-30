@@ -85,7 +85,7 @@ Chấp nhận tọa độ âm, nhưng nó không được nhỏ hơn (kích thư
 - a: Khoảng cách từ cạnh tem (cạnh song song với trục Oy, cạnh trái nếu vị trí tem là X_Left, cạnh phải nếu là X_Right) tới cạnh tương ứng của hình ảnh cơ sở (hình ảnh nhỏ).
 - b: Khoảng cách từ cạnh tem (cạnh song song với trục Ox, cạnh trên nếu vị trí tem là Top_X, cạnh dưới nếu là Bottom_X) tới cạnh tương ứng của hình ảnh cơ sở (hình ảnh nhỏ).
 - c: Khoảng cách từ cạnh tem (cạnh song song với trục Oy, cạnh trái nếu vị trí tem là X_Left, cạnh phải nếu là X_Right) tới cạnh tương ứng của hình ảnh cơ sở (hình ảnh lớn).
-- d: Khoảng cách từ cạnh tem (cạnh song song với trục Ox, cạnh trái nếu vị trí tem là Top_X, cạnh dưới nếu là Bottom_X) tới cạnh tương ứng của hình ảnh cơ sở (hình ảnh lớn).
+- d: Khoảng cách từ cạnh tem (cạnh song song với trục Ox, cạnh trên nếu vị trí tem là Top_X, cạnh dưới nếu là Bottom_X) tới cạnh tương ứng của hình ảnh cơ sở (hình ảnh lớn).
 
 ### Cài đặt mã
 ★ Font chữ: Font được sử dụng trong cửa sổ CodeEditor, mặc định sử dụng font Consolas
